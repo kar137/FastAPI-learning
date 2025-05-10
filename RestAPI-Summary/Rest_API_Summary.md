@@ -86,3 +86,5 @@
 - Postman provides tools, collections, and glossaries to help you explore, test, and understand APIs more effectively.
 
 Keep growing and learning about APIs to strengthen your development skills!
+
+- Note: Follow this link to read the whole documentation: https://blog.postman.com/rest-api-examples/
